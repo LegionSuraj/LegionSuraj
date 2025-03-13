@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm [Your Name] — a cybersecurity enthusiast, final-year student, and ethical hacker in the making. 
+I'm Suraj — a cybersecurity enthusiast, and ethical hacker in the making. 
 
 ## 🚀 About Me
 - 🔐 Cybersecurity | SOC | Ethical Hacking | VAPT
-- 📚 Final-year Cybersecurity student
+- 📚 Cybersecurity student
 - 🏎️ Techie by day, hacker by night
 
 ## 🛠️ Tools & Tech
